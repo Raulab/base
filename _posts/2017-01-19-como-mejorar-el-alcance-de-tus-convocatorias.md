@@ -17,7 +17,7 @@ El llamado de la convocatoria es la puerta de entrada que invita a participar, v
 Esto se puede deber a que el llamado es muy complejo, muy acotado, poco claro (fechas, bases condiciones, perfil de los proyectos) y/o poco llamativo.
 
 * **La convocatoria está enfocada a un tema o perfil muy específico o a una localidad particular**: 
-Muchas veces las convocatorias son muy específicas, a al cuales sólo podrán aplicar personas con un perfil determinado o se busca una solución para un problema en paticular o de una localidad a baja escala. 
+Muchas veces las convocatorias son muy específicas, a las cuales sólo podrán aplicar personas con un perfil determinado o se busca una solución para un problema en paticular o de una localidad a baja escala. 
 Esto puede desmotivar a los participantes a postular sus ideas al no cumplir con el perfil o sentirse poco identificados con el espacio de solución de problemas.
 
 * **Poca inversión en comunicaciones**: 
