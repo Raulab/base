@@ -29,7 +29,8 @@ Ante estas diversas problemáticas, se proponen una serie de medidas que como **
 |   ---   |   ---   |
 |   **El llamado no es tan claro o llamativo**   |   Generar gráficas llamativas, gif y/o videos con el fin que sean viralizables. Hacer un  llamado a la acción claro y propositivo (*Ejemplo: ¡buscamos a los emprendedores que cambiarán el mundo*).   |
 |   **La convocatoria está enfocada a un tema muy específico o a una localidad**   |   Utilizar *medios de nicho* o medios de prensa local para publicitar la convocatoria. Implementar un sistema de votos para que los participantes compartan la convocatoria y/o sus ideas. Realizar actividades en terreno.  |
-|   ** Poca inversión en comunicaciones**   |   Invertir en publicidad en google, Facebook y/o twitter. Hacer publicaciones en medios de comunicación acorde al público objetivo. Realizar talleres, eventos de lanzamiento y actividades en terreno.   |
+|   **Poca inversión en comunicaciones**   |   Invertir en publicidad en google, Facebook y/o twitter. Hacer publicaciones en medios de comunicación acorde al público objetivo. Realizar talleres, eventos de lanzamiento y actividades en terreno.   |
+
 
 Es importante que consideres que cada una de estas acciones son parte de lo que ofrece **Socialab** en su servicio desarrollo y ejecución de convocatorias. Aunque todas estas acciones son ejecutables por cualquier institución con las capacidades y experiencia, queremos que sepas que puedes aliviar tu trabajo mediante la contratación de **Socialab** como ejecutor. Para contratarnos puedes pedir un presupuesto contactando a tu jefe de proyecto asignado.
 
