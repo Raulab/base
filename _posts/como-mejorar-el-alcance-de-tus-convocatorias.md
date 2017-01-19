@@ -1,3 +1,12 @@
+---
+layout: post
+title: ¿Cómo ampliar el alcance de tus convocatorias?
+author: Camila Urzua
+published: true
+date: 2017-01-19 15:21:13 -0300
+categories: convocatorias
+---
+
 # ¿Cómo mejorar el alcance de tus convocatorias?
 *¿Lanzaste una convocatoria y no estás llegando a las personas que esperabas? ¿quieres saber cómo puedes llegar a más personas o generar un mayor impacto?* A continuación, presentaremos algunas técnicas que en **Socialab** nos han servido para mejorar el alcance de las convocatorias de innovación abierta que hemos ejecutado.
 Una convocatoria abierta es un concurso en el que se llama a la mayor cantidad de personas interesadas a participar. Los proyectos postulados deben estar alineados con la problemática o tema que se desea abordar, la cual identificamos como *el llamado*.
