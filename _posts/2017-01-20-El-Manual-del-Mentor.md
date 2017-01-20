@@ -7,16 +7,16 @@ date: 2017-01-20 10:33:00 -0300
 categories: convocatorias
 ---
 
-#El manual del mentor
+# El manual del mentor
 
-####Bienvenido! Haz sido elegido para ser mentor de ideas de innovación social, las cuales buscan resolver grandes problemas de la humanidad.
+#### Bienvenido! Haz sido elegido para ser mentor de ideas de innovación social, las cuales buscan resolver grandes problemas de la humanidad.
 
 Toma este documento como una guía y no como un manual. 
 Después de tu experiencia como mentor envíanos tus aportes para seguir perfeccionando nuestro trabajo. 
 
 
-###CAPÍTULO I
-####**Regístrate en la comunidad** 
+### CAPÍTULO I
+#### **Regístrate en la comunidad** 
 
 1- Ingresa a http://comunidad.socialab.com/
 
@@ -27,24 +27,23 @@ Después de tu experiencia como mentor envíanos tus aportes para seguir perfecc
 4- Personaliza tu perfil. A los emprendedores les gustará saber mas de ti. 
 
 
-###CAPÍTULO II
-####**Conoce los proyectos!** 
+### CAPÍTULO II
+#### **Conoce los proyectos!** 
 
 1- Debajo de tu perfil, encontrarás las ideas que te fueron asignadas para mentorear. 
 
 2- Entra a las ideas que te han asignado y conócelas! Podrás leer la descripción que cuenta sobre el proyecto, el nombre del emprendedor y la cantidad de votos que tiene. 
 
 
-###CAPÍTULO III
-####**Cómo mentorear?**
+### CAPÍTULO III
+#### **Cómo mentorear?**
 
 1-Para comenzar a mentorear en esta etapa, solamente tienes que ir al cuadro de dialogo y comenzar a realizar preguntas. 
 
 2-Te avisaremos a tu mail cuando el emprendedor haya contestado tus preguntas. Para lograr una conversación fluida deberás estar pendiente de estos avisos. Así te asegurarás de no dejar pasar demasiado tiempo en los tiempos de pregunta/respuesta. 
 
-
-###CAPÍTULO IV
-####**Tips para mentores**
+### CAPÍTULO IV
+#### **Tips para mentores**
 
 1- Tus mensajes son claves! Deben reflejar el compromiso de tu labor. Date el tiempo de hacer que cada participante se sienta único y especial. 
 
@@ -58,18 +57,18 @@ Invítalo a que revise las bases para que conozca los criterios que vamos a eval
 *Una hora por semana te permitirá tener suficiente contacto con los emprendedores y poder aportarles muchísimo.
 
 
-###CAPÍTULO V
-####**AYÚDALO A MEJORAR SU IDEA** 
+### CAPÍTULO V
+#### **AYÚDALO A MEJORAR SU IDEA** 
 
 1- Una vez que hayas leído la idea, usa comentarios y preguntas para ayudar al emprendedor a que haga la mejor propuesta posible.
 Recuerda que una gran idea debe dejar claro lo siguiente:
 
-** El problema:** ¿qué necesidad social busca resolver?
-** El beneficiario:** ¿qué tanto conoce a la población o grupo que quiere impactar?
-** La propuesta:** ¿cómo va a resolver el programa? ¿usa algún tipo de tecnología?
-** Modelo de negocio:** ¿cómo va a generar ingresos y ser sustentable el proyecto?
-** Equipo:** ¿quienes conforman el equipo?
-** La necesidad:** ¿qué necesidad tiene el emprendedor para poder hacer realidad su propuesta?
+- **El problema:** ¿qué necesidad social busca resolver?
+- **El beneficiario:** ¿qué tanto conoce a la población o grupo que quiere impactar?
+- **La propuesta:** ¿cómo va a resolver el programa? ¿usa algún tipo de tecnología?
+- **Modelo de negocio:** ¿cómo va a generar ingresos y ser sustentable el proyecto?
+- **Equipo:** ¿quienes conforman el equipo?
+- **La necesidad:** ¿qué necesidad tiene el emprendedor para poder hacer realidad su propuesta?
 
 Realiza preguntas que le permitan al emprendedor contestar de la manera mas completa posible estos aspectos. Y recuérdale editar su idea de ser necesario. 
 
@@ -78,8 +77,8 @@ Realiza preguntas que le permitan al emprendedor contestar de la manera mas comp
 3- Contextualízalo! Recuérdale al participante el objetivo del concurso y reitérale los objetivos de la etapa en la que se encuentra.
 
 
-###CAPÍTULO VI
-####**GUÍA DE PREGUNTAS** 
+### CAPÍTULO VI
+#### **GUÍA DE PREGUNTAS** 
 
 Al mentorear una idea tendrás la opción de realizarle preguntas para saber más sobre su propuesta y guiarlo en el desarrollo de su idea, o comentarios o respuestas a dudas que puedan significarle un aporte.
 Cuando realices un comentario que implique opiniones subjetivas, recuerda siempre dejar en claro que se trata sólo de una sugerencia y hazle saber al participante que él tiene la decisión final.
@@ -115,15 +114,15 @@ Te compartimos algunas preguntas que puedes hacerle al emprendedor.
 - Puedes averiguar diversas técnicas para favorecer la creatividad dentro de una idea. El brainstorming o lluvia de ideas es una de ellas, ¡busca la tuya!
 
 
-###Capitulo VII
-####**DUDAD ADMINISTRATIVAS**
+### Capitulo VII
+#### **DUDAD ADMINISTRATIVAS**
 
 En caso de que los participantes te pregunten cuestiones administrativas y no sepas la respuesta contáctate con el equipo de Socialab.
 Tranquil@. Lo más probable es que estas te las realicen con mayor frecuencia en las próximas etapas del desafío, cuando tengas menos proyectos que mentorear.
 
 
-###Capitulo VIII
-####**ANDA UN PASO MÁS ADELANTE!** 
+### Capitulo VIII
+#### **ANDA UN PASO MÁS ADELANTE!** 
 
 En las próximas etapas del desafío te encontrarás con otros criterios de evaluación. Puedes ir un paso más allá y preparar al participante a lo que sele viene. Aquí te presentamos algunos ejemplos de inspiración:
 
@@ -131,13 +130,13 @@ En las próximas etapas del desafío te encontrarás con otros criterios de eval
 * **Segmento de beneficiarios o clientes:** ¿Quién pagará por este servicio y quiénes son los beneficiarios directos?
 * **Factibilidad:** ¿Cuáles son los requisitos técnicos y económicos con los que debe contar tu proyecto para ser viable?
 * **Cocreación:** ¿Con quiénes piensas testear tu propuesta para validarla? ¿Qué prototipo de baja fidelidad piensas realizar?
-* **Sostenibilidad y modelo de negocios: ¿Cómo piensas financiar la ejecución de tu propuesta?
+* **Sostenibilidad** y modelo de negocios: ¿Cómo piensas financiar la ejecución de tu propuesta?
 * **Equipo emprendedor:** ¿Posees un equipo de trabajo? Si no es así, ¿has pensado en quiénes necesitas?
 * **Escalabilidad:** ¿Cómo tu proyecto podría expandirse y crecer en el tiempo? ¿Has pensado en su ejecución fuera de Chile?
 
 
-###CAPÍTULO VIX
-####**Siempre ten en mente ...**
+### CAPÍTULO VIX
+#### **Siempre ten en mente ...**
 
 Buscamos ideas que respondan a estos cinco criterios generales :
 * **Innovación:** La idea presenta un servicio o producto novedoso y deja obsoleta soluciones existentes.
